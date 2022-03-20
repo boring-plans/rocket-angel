@@ -6,7 +6,7 @@
 
 `Rocket Angel` is originally from 「Conmand & Conquer: Red Alert 3」, one small but powerful unit:
 
-<iframe src="//player.bilibili.com/player.html?aid=838761520&bvid=BV12g4y1v7gA&cid=211828236&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[One Related Video.](https://www.bilibili.com/video/BV12g4y1v7gA?spm_id_from=333.337.search-card.all.click)
 
 But here, It's a template of backstage admin app based on [Vuetify Admin](https://github.com/boring-plans/vuetify-admin) and [Flask Boot](https://github.com/boring-plans/flast-boot).
 
