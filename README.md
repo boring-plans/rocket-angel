@@ -12,7 +12,7 @@ But here, It's a template of backstage admin app based on [Vuetify Admin](https:
 
 ## Build & Deploy
 
-In folder vuetify, run:
+In folder vuetify-admin, run:
 
 ```shell
 yarn && yarn build
