@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Index A",
+    "color": "teal",
+    "icon": "mdi-robot",
+    "path": "/"
+  },
+  {
+    "title": "Index B",
+    "color": "warning",
+    "icon": "mdi-sitemap",
+    "path": "/"
+  },
+  {
+    "title": "Index C",
+    "color": "error",
+    "icon": "mdi-factory",
+    "path": "/"
+  },
+  {
+    "title": "Index D",
+    "color": "primary",
+    "unit": "GB",
+    "icon": "mdi-database",
+    "path": "/"
+  }
+]

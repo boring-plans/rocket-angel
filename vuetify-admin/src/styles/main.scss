@@ -1,0 +1,22 @@
+.customized-checkbox {
+  margin: 6px 0 !important;
+  padding-top: 0 !important;
+  .v-input--selection-controls__input {
+    margin-right: 6px !important;
+  }
+  label {
+    font-size: 14px;
+  }
+}
+
+.black-label-checkbox {
+  label{
+    color: rgba(0, 0, 0, .87) !important;
+  }
+}
+
+.border-radius-table{
+  .v-data-table__wrapper{
+    border-radius: 4px;
+  }
+}
